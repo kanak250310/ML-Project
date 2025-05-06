@@ -1,0 +1,8 @@
+streamlit
+torch
+torchaudio
+numpy
+soundfile
+gdown
+matplotlib
+Pillow

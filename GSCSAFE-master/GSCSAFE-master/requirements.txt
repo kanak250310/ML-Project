@@ -1,0 +1,9 @@
+streamlit
+gdown
+numpy
+matplotlib
+scipy
+tqdm
+Pillow
+librosa
+soundfile
